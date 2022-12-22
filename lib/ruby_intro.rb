@@ -14,7 +14,7 @@ end
 
 def sum_to_n? arr, n
   # YOUR CODE HERE
-  
+  sum
 end
 
 # Part 2
